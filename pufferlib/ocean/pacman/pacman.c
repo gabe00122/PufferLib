@@ -75,7 +75,7 @@ void performance_test() {
 }
 
 int main() {
-    // performance_test();
-    demo();
+    performance_test();
+    // demo();
     return 0;
 }

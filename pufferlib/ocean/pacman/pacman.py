@@ -14,8 +14,8 @@ class Pacman(pufferlib.PufferEnv):
             max_start_timeout = 49,
             frightened_time = 20,
             max_mode_changes = 6,
-            scatter_mode_length = 49,
-            chase_mode_length = 140,
+            scatter_mode_length = 35,
+            chase_mode_length = 70,
             log_interval=128,
             buf=None, seed=0):
         
